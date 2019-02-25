@@ -4,7 +4,7 @@ meditation for Electronic Rituals, Oracles and Fortune Telling / Spring 2019 wit
 
 this is a bash script for a computer to give itself a tarot reading :)
 
-![gif of computarot reading excuted on desktop](https://images.ctfassets.net/jn2t9naj0ynh/6wB1hT0WmGVhzgLBdHB1Cy/dfb4b6c20ec086acd14914f24b99fb47/computarot.gif)
+![gif of computarot reading excuted on desktop]("https://images.ctfassets.net/jn2t9naj0ynh/6wB1hT0WmGVhzgLBdHB1Cy/dfb4b6c20ec086acd14914f24b99fb47/computarot.gif")
 
 #### to try it out follow these steps
 
