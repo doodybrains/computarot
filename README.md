@@ -12,6 +12,6 @@ more info [here](https://spaghettimeatballsbecomereallyfrightening.online/electr
 
 - open a new terminal window and run the following commands:
 
-`$ cd computarot-code`
+`$ cd computarot`
 
 `$ ./folder-tarot.sh`
