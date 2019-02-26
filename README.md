@@ -15,3 +15,5 @@ more info [here](https://spaghettimeatballsbecomereallyfrightening.online/electr
 `$ cd computarot`
 
 `$ ./folder-tarot.sh`
+
+the reading will create a new folder `computarot-reading` in the same directory as the repository
