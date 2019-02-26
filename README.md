@@ -6,12 +6,12 @@ this is a bash script for a computer to give itself a tarot reading :)
 
 more info [here](https://spaghettimeatballsbecomereallyfrightening.online/electronic-rituals/week-4-computarot)
 
-#### to try it out follow these steps
+#### to try it out follow these steps:
 
-clone or download this repository
+- clone or download this repository
 
-open a new terminal window
+- open a new terminal window and run the following commands:
 
 `$ cd computarot-code`
 
-`./folder-tarot.sh`
+`$ ./folder-tarot.sh`
